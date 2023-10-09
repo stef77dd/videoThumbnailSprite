@@ -1,0 +1,36 @@
+{
+  "name": "emgag/video-thumbnail-sprite",
+  "description": "PHP library for generating video thumbnail sprites",
+  "keywords": [
+    "jwplayer",
+    "sprite",
+    "ffmpeg",
+    "ffmpegthumbnailer"
+  ],
+  "homepage": "https://github.com/emgag/video-thumbnail-sprite",
+  "type": "library",
+  "require": {
+    "php": "^8.0", 
+    "intervention/image": "^2.0",
+    "symfony/process": "^4.0", 
+    "captioning/captioning": "^2.0",
+    "php-ffmpeg/php-ffmpeg": "~0.6",
+    "emgag/flysystem-tempdir": "^0.1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.0",
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matthias Blaser",
+      "email": "git@mooch.ch"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Emgag\\Video\\ThumbnailSprite\\": "src/"
+    }
+  }
+}
