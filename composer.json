@@ -11,8 +11,8 @@
   "type": "library",
   "require": {
     "php": ">=7.3 || >=8.0", 
-    "intervention/image": "^2.0",
-    "symfony/process": "^4.0", 
+    "intervention/image": "^2.5",  // Updated version constraint
+    "symfony/process": "^5.0",     // Updated version constraint
     "captioning/captioning": "^2.0",
     "php-ffmpeg/php-ffmpeg": "~0.6",
     "imrantune/flysystem-tempdir": "^0.1.0"
