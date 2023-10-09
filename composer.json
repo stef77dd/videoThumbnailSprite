@@ -1,5 +1,5 @@
 {
-  "name": "emgag/video-thumbnail-sprite",
+  "name": "imrantune/videoThumbnailSprite",
   "description": "PHP library for generating video thumbnail sprites",
   "keywords": [
     "jwplayer",
@@ -7,15 +7,15 @@
     "ffmpeg",
     "ffmpegthumbnailer"
   ],
-  "homepage": "https://github.com/emgag/video-thumbnail-sprite",
+  "homepage": "https://github.com/imrantune/videoThumbnailSprite",
   "type": "library",
   "require": {
-    "php": "^8.0", 
+    "php": ">=7.3 || >=8.0", 
     "intervention/image": "^2.0",
     "symfony/process": "^4.0", 
     "captioning/captioning": "^2.0",
     "php-ffmpeg/php-ffmpeg": "~0.6",
-    "emgag/flysystem-tempdir": "^0.1.0"
+    "imrantune/flysystem-tempdir": "^0.1.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^9.0",
@@ -24,13 +24,13 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Matthias Blaser",
-      "email": "git@mooch.ch"
+      "name": "Imran Hassan",
+      "email": "imran.tune@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "Emgag\\Video\\ThumbnailSprite\\": "src/"
+      "Imrantune\\Video\\ThumbnailSprite\\": "src/"
     }
   }
 }
