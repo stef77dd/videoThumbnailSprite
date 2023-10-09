@@ -1,5 +1,5 @@
 {
-  "name": "imrantune/videoThumbnailSprite",
+  "name": "imrantune/video-thumbnail-sprite",
   "description": "PHP library for generating video thumbnail sprites",
   "keywords": [
     "jwplayer",
@@ -11,11 +11,11 @@
   "type": "library",
   "require": {
     "php": ">=7.3 || >=8.0", 
-    "intervention/image": "^2.5",  // Updated version constraint
-    "symfony/process": "^5.0",     // Updated version constraint
+    "intervention/image": "^2.5",  
+    "symfony/process": "^5.0",     
     "captioning/captioning": "^2.0",
     "php-ffmpeg/php-ffmpeg": "~0.6",
-    "imrantune/flysystem-tempdir": "^0.1.0"
+    "emgag/flysystem-tempdir": "^0.1.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^9.0",
