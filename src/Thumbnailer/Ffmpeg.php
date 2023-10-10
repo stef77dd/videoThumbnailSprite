@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Emgag\Video\ThumbnailSprite\Thumbnailer;
+namespace Imrantune\Video\ThumbnailSprite\Thumbnailer;
 
 use Symfony\Component\Process\Process;
 
