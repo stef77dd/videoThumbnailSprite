@@ -1,5 +1,5 @@
 {
-  "name": "imrantune/video-thumbnail-sprite",
+  "name": "stef77dd/videoThumbnailSprite",
   "description": "PHP library for generating video thumbnail sprites",
   "keywords": [
     "jwplayer",
@@ -7,7 +7,7 @@
     "ffmpeg",
     "ffmpegthumbnailer"
   ],
-  "homepage": "https://github.com/imrantune/videoThumbnailSprite",
+  "homepage": "https://github.com/stef77dd/videoThumbnailSprite",
   "type": "library",
   "require": {
     "php": ">=7.3 || >=8.0", 
