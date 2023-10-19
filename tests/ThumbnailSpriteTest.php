@@ -1,10 +1,10 @@
 <?php
 
-use stef77dd\Flysystem\Tempdir;
-use stef77dd\Video\ThumbnailSprite\Thumbnailer\Ffmpeg;
-use stef77dd\Video\ThumbnailSprite\Thumbnailer\FfmpegThumbnailer;
-use stef77dd\Video\ThumbnailSprite\Thumbnailer\ThumbnailerInterface;
-use stef77dd\Video\ThumbnailSprite\ThumbnailSprite;
+use Stef77dd\Flysystem\Tempdir;
+use Stef77dd\Video\ThumbnailSprite\Thumbnailer\Ffmpeg;
+use Stef77dd\Video\ThumbnailSprite\Thumbnailer\FfmpegThumbnailer;
+use Stef77dd\Video\ThumbnailSprite\Thumbnailer\ThumbnailerInterface;
+use Stef77dd\Video\ThumbnailSprite\ThumbnailSprite;
 use GuzzleHttp\Client;
 use Intervention\Image\Image;
 use Intervention\Image\ImageManagerStatic;
