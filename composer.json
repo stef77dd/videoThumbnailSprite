@@ -30,7 +30,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Imrantune\\Video\\ThumbnailSprite\\": "src/"
+      "stef77dd\\Video\\ThumbnailSprite\\": "src/"
     }
   }
 }
