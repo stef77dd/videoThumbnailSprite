@@ -1,7 +1,7 @@
 # videoThumbnailSprite
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Packagist Version](https://img.shields.io/packagist/v/imrantune/videoThumbnailSprite.svg?style=flat-square)](https://packagist.org/packages/imrantune/videoThumbnailSprite)
+[![Packagist Version](https://img.shields.io/packagist/v/emgag/video-thumbnail-sprite.svg?style=flat-square)](https://packagist.org/packages/stef77dd/videothumbnailsprite)
 
 **WARNING**: This library is no longer maintained **/WARNING**
 
