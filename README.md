@@ -19,7 +19,7 @@ Following binaries need to be installed
 ## Installation
 
 ```
-composer require imrantune/videoThumbnailSprite
+composer require stef77dd/videoThumbnailSprite
 ```
 
 ## Usage
