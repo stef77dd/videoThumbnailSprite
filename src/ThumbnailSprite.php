@@ -1,14 +1,14 @@
 <?php
 declare(strict_types=1);
 
-namespace Imrantune\Video\ThumbnailSprite;
+namespace Stef77dd\Video\ThumbnailSprite;
 
 use Captioning\Format\WebvttCue;
 use Captioning\Format\WebvttFile;
 use DateTime;
-use Imrantune\Flysystem\Tempdir;
-use Imrantune\Video\ThumbnailSprite\Thumbnailer\Ffmpeg;
-use Imrantune\Video\ThumbnailSprite\Thumbnailer\ThumbnailerInterface;
+use Stef77dd\Flysystem\Tempdir;
+use Stef77dd\Video\ThumbnailSprite\Thumbnailer\Ffmpeg;
+use Stef77dd\Video\ThumbnailSprite\Thumbnailer\ThumbnailerInterface;
 use FFMpeg\FFProbe;
 use Intervention\Image\ImageManagerStatic as Image;
 use League\Flysystem\Plugin\ListFiles;
