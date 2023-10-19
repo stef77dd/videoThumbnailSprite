@@ -30,7 +30,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "stef77dd\\Video\\ThumbnailSprite\\": "src/"
+      "Stef77dd\\Video\\ThumbnailSprite\\": "src/"
     }
   }
 }
