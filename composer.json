@@ -24,8 +24,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Imran Hassan",
-      "email": "imran.tune@gmail.com"
+      "name": "Stefan Jutzi",
+      "email": "github@jutzi.net"
     }
   ],
   "autoload": {
