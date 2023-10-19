@@ -6,7 +6,7 @@ namespace Stef77dd\Video\ThumbnailSprite;
 use Captioning\Format\WebvttCue;
 use Captioning\Format\WebvttFile;
 use DateTime;
-use Stef77dd\Flysystem\Tempdir;
+use Emgag\Flysystem\Tempdir;
 use Stef77dd\Video\ThumbnailSprite\Thumbnailer\Ffmpeg;
 use Stef77dd\Video\ThumbnailSprite\Thumbnailer\ThumbnailerInterface;
 use FFMpeg\FFProbe;
