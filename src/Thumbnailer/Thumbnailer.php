@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Imrantune\Video\ThumbnailSprite\Thumbnailer;
+namespace Stef77dd\Video\ThumbnailSprite\Thumbnailer;
 
 
 abstract class Thumbnailer implements ThumbnailerInterface
