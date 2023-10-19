@@ -65,6 +65,7 @@ $sprite->setOutputImageDirectory('dir-to-store-images');
 
 * Inspired by [vlanard/videoscripts](https://github.com/vlanard/videoscripts) and [scaryguy/jwthumbs](https://github.com/scaryguy/jwthumbs).
 * Thanks to [Mehrdad-Dadkhah](https://github.com/Mehrdad-Dadkhah) for adding ffmpegthumbnailer support and other additional features.
+* Forked from [Emgag](https://github.com/emgag/)'s [video-thumbnail-sprite](https://github.com/emgag/video-thumbnail-sprite)
 
 Uses:
 
