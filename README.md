@@ -26,7 +26,7 @@ composer require stef77dd/videoThumbnailSprite
 
 
 ```PHP
-use \stef77dd\Video\ThumbnailSprite\ThumbnailSprite;
+use \Stef77dd\Video\ThumbnailSprite\ThumbnailSprite;
 
 $sprite = new ThumbnailSprite();
 $ret = $sprite->setSource('path-to-source-video.mp4')
