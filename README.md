@@ -26,7 +26,7 @@ composer require stef77dd/videoThumbnailSprite
 
 
 ```PHP
-use imrantune\Video\ThumbnailSprite\ThumbnailSprite;
+use \stef77dd\Video\ThumbnailSprite\ThumbnailSprite;
 
 $sprite = new ThumbnailSprite();
 $ret = $sprite->setSource('path-to-source-video.mp4')
